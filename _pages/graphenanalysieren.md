@@ -26,3 +26,11 @@ title: "Graphen analysieren"
 ## Punktsymmetrie
 
 ![](../assets/images/2022-06-21-00-11-26.png)
+
+## Achsensymmetrie
+
+![](../assets/images/2022-06-21-00-32-41.png)
+
+## Integrale
+
+![](../assets/images/2022-06-21-00-33-03.png)
