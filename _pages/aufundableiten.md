@@ -13,3 +13,7 @@ title: "Auf- und Ableiten"
 ## Weitere Ableitungsregeln
 
 ![](attachments/2022-06-20-23-56-09.png)
+
+## Graphische Darstellung
+
+![](../attachments/2022-06-21-00-05-32.png)
