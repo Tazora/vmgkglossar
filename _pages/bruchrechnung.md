@@ -1,4 +1,7 @@
-# Bruchrechnung
+---
+permalink: /bruchrechnung/
+title: "Bruchrechnung"
+---
 
 ## Addition/Subtraktion
 

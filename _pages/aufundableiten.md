@@ -1,4 +1,7 @@
-# Auf- und Ableiten
+---
+permalink: /aufundableiten/
+title: "Auf- und Ableiten"
+---
 
 ![](attachments/2022-06-20-22-25-25.png)
 
@@ -9,3 +12,4 @@
 
 ## Weitere Ableitungsregeln
 
+![](attachments/2022-06-20-23-56-09.png)
