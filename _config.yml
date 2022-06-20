@@ -1,3 +1,7 @@
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+markdown: kramdown
+title: Mathematik Glossar
+minimal_mistakes_skin: default
+search: true
 plugins:
   - jekyll-include-cache
