@@ -3,9 +3,19 @@ markdown: kramdown
 title: Mathematik Glossar
 minimal_mistakes_skin: default
 search: true
+locale: "de-DE"
+title_separator: "|"
+url: "https://tazora.github.io/vmgkglossar"
+baseurl: "/vmgkglossar"
 
 include:
   - _pages
+
+search_provider: lunr
+timezone: Europe/Berlin
+
+lunr:
+  search_within_pages: true
 
 plugins:
   - jekyll-paginate
