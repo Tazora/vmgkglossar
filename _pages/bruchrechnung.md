@@ -5,7 +5,7 @@ title: "Bruchrechnung"
 
 ## Addition/Subtraktion
 
-![](assets/images/2022-06-20-22-21-29.png)
+![](../assets/images/2022-06-20-22-21-29.png)
 
 ## Erweitern/Kürzen
 

@@ -33,3 +33,4 @@ defaults:
     values:
       layout: single
       related: true
+      toc: true
