@@ -3,6 +3,7 @@ markdown: kramdown
 title: Mathematik Glossar
 minimal_mistakes_skin: default
 search: true
+search_full_content: true
 locale: "de-DE"
 title_separator: "|"
 url: "https://tazora.github.io/vmgkglossar"
@@ -10,6 +11,31 @@ baseurl: "/vmgkglossar"
 
 include:
   - _pages
+
+exclude:
+  - "*.sublime-project"
+  - "*.sublime-workspace"
+  - vendor
+  - .asset-cache
+  - .bundle
+  - .jekyll-assets-cache
+  - .sass-cache
+  - assets/js/plugins
+  - assets/js/_main.js
+  - assets/js/vendor
+  - Capfile
+  - CHANGELOG
+  - config
+  - Gemfile
+  - Gruntfile.js
+  - gulpfile.js
+  - LICENSE
+  - log
+  - node_modules
+  - package.json
+  - Rakefile
+  - README
+  - tmp
 
 search_provider: lunr
 timezone: Europe/Berlin
@@ -26,11 +52,35 @@ plugins:
   - jekyll-include-cache
 
 defaults:
-  # _pages
+  # _algebra
   - scope:
-      path: "_pages"
-      type: pages
+      path: ""
+      type: algebra
     values:
       layout: single
-      related: true
       toc: true
+  # _analysis
+  - scope:
+      path: ""
+      type: analysis
+    values:
+      layout: single
+      toc: true
+  # _allgemein
+  - scope:
+      path: ""
+      type: allgemein
+    values:
+      layout: single
+      toc: true
+
+collections:
+  algebra:
+    output: true
+    permalink: /:collection/:path/
+  analysis:
+    output: true
+    permalink: /:collection/:path/
+  allgemein:
+    output: true
+    permalink: /:collection/:path/
