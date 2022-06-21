@@ -6,7 +6,7 @@ search: true
 search_full_content: true
 locale: "de-DE"
 title_separator: "|"
-url: "https://tazora.github.io/vmgkglossar"
+url: "https://glossar.thon.app/vmgkglossar"
 baseurl: "/vmgkglossar"
 
 include:
