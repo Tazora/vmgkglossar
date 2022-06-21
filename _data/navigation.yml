@@ -1,3 +1,7 @@
 main:
   - title: "Allgemein"
     url: "/allgemein"
+  - title: "Algebra"
+    url: "/algebra"
+  - title: "Analysis"
+    url: "/analysis"

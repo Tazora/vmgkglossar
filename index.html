@@ -17,7 +17,7 @@ Unten findet ihr alle Kategorien und Einträge in diesem Glossar. Alternativ kö
     {% capture label %}{{ collection.label }}
     {% endcapture %}
     {% if label != written_label %}
-      <h2 id="{{ label | slugify }}" class="archive__subtitle">{{ label }}</h2>
+      <h2 id="{{ label | slugify }}" class="archive__subtitle capitalize">{{ label }}</h2>
       {% capture written_label %}{{ label }}
       {% endcapture %}
     {% endif %}
