@@ -59,6 +59,7 @@ defaults:
     values:
       layout: single
       toc: true
+      toc_sticky: true
   # _analysis
   - scope:
       path: ""
@@ -66,6 +67,7 @@ defaults:
     values:
       layout: single
       toc: true
+      toc_sticky: true
   # _allgemein
   - scope:
       path: ""
@@ -73,6 +75,7 @@ defaults:
     values:
       layout: single
       toc: true
+      toc_sticky: true
 
 collections:
   algebra:
