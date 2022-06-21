@@ -1,5 +1,4 @@
 ---
-permalink: /funktionen/
 title: "Funktionen"
 ---
 

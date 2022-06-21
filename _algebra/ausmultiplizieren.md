@@ -1,5 +1,4 @@
 ---
-permalink: /ausmultiplizieren/
 title: "Beispiele Ausmultiplizieren"
 ---
 

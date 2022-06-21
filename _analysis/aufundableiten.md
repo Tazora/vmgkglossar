@@ -1,5 +1,4 @@
 ---
-permalink: /aufundableiten/
 title: "Auf- und Ableiten"
 ---
 

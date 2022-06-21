@@ -1,5 +1,4 @@
 ---
-permalink: /terme/
 title: "Terme"
 ---
 

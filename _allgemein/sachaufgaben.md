@@ -1,5 +1,4 @@
 ---
-permalink: /sachaufgaben/
 title: "Sachaufgaben"
 ---
 

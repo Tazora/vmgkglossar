@@ -1,5 +1,4 @@
 ---
-permalink: /aequivalenzumformungen/
 title: "Äquivalenzumformungen"
 ---
 

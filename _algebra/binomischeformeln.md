@@ -1,5 +1,4 @@
 ---
-permalink: /binomischeformeln/
 title: "Binomische Formeln"
 ---
 

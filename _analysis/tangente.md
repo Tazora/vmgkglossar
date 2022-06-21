@@ -1,5 +1,4 @@
 ---
-permalink: /tangente/
 title: "Tangente"
 ---
 

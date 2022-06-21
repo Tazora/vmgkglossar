@@ -1,5 +1,4 @@
 ---
-permalink: /rechengesetze/
 title: "Rechengesetze"
 ---
 

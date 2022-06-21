@@ -1,5 +1,4 @@
 ---
-permalink: /graphenanalysieren/
 title: "Graphen analysieren"
 ---
 

@@ -1,5 +1,4 @@
 ---
-permalink: /potenzgesetze/
 title: "Potenzgesetze"
 ---
 

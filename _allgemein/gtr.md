@@ -1,5 +1,4 @@
 ---
-permalink: /gtr/
 title: "Umgang mit dem GTR"
 ---
 

@@ -1,5 +1,4 @@
 ---
-permalink: /gleichungen/
 title: "Gleichungen"
 ---
 

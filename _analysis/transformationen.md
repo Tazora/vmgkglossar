@@ -1,5 +1,4 @@
 ---
-permalink: /transformationen/
 title: "Transformationen von (ganzrationalen) Funktionen"
 ---
 
