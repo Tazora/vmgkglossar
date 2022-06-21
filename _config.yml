@@ -6,8 +6,8 @@ search: true
 search_full_content: true
 locale: "de-DE"
 title_separator: "|"
-url: "https://glossar.thon.app/vmgkglossar"
-baseurl: "/vmgkglossar"
+url: "https://glossar.thon.app"
+baseurl: "/"
 
 include:
   - _pages
